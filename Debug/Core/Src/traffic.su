@@ -1,0 +1,12 @@
+../Core/Src/traffic.c:35:17:red_short_ms	4	static
+../Core/Src/traffic.c:40:17:phase_default_ms	16	static
+../Core/Src/traffic.c:50:13:enter_phase	16	static
+../Core/Src/traffic.c:61:13:on_button_press	24	static
+../Core/Src/traffic.c:73:13:show	24	static
+../Core/Src/traffic.c:82:6:traffic_init	8	static
+../Core/Src/traffic.c:88:6:traffic_update	16	static
+../Core/Src/traffic.c:102:6:traffic_set_button_enabled	16	static
+../Core/Src/traffic.c:109:6:traffic_button_enabled	4	static
+../Core/Src/traffic.c:114:6:traffic_set_red_ms	16	static
+../Core/Src/traffic.c:119:10:traffic_red_ms	4	static
+../Core/Src/traffic.c:124:13:traffic_light_name	4	static

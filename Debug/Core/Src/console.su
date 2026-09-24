@@ -1,0 +1,7 @@
+../Core/Src/console.c:16:13:reply	16	static
+../Core/Src/console.c:22:13:print_status	104	static
+../Core/Src/console.c:34:13:set_timeout	24	static
+../Core/Src/console.c:47:13:execute	16	static
+../Core/Src/console.c:70:13:handle_char	16	static
+../Core/Src/console.c:91:6:console_init	8	static
+../Core/Src/console.c:98:6:console_update	16	static
