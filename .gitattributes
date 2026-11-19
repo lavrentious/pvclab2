@@ -1,0 +1,14 @@
+# Все текстовые файлы хранятся в репозитории и выгружаются с LF.
+* text=auto eol=lf
+
+# Двоичные файлы не трогаем.
+*.o binary
+*.a binary
+*.elf binary
+*.bin binary
+*.hex binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary

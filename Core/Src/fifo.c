@@ -15,7 +15,7 @@ bool fifo_push(fifo_t *fifo, uint8_t byte)
 	if (next == fifo->tail)
 		return false;
 	fifo->data[fifo->head] = byte;
-	fifo->head = next; /* сдвигаем голову только после записи данных */
+	fifo->head = next;
 	return true;
 }
 
